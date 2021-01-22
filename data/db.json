@@ -1,0 +1,40 @@
+{
+  "blogs": [
+    {
+      "title": "The Lights",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus eius perferendis, blanditiis numquam obcaecati et quis est quod. Eligendi sequi aliquam illum maiores, veniam tempora? Repellat unde odio consectetur enim.",
+      "author": "Aditya",
+      "id": 1
+    },
+    {
+      "title": "Dunkin Donut",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus eius perferendis, blanditiis numquam obcaecati et quis est quod. Eligendi sequi aliquam illum maiores, veniam tempora? Repellat unde odio consectetur enim.",
+      "author": "Mrudula",
+      "id": 2
+    },
+    {
+      "title": "Angry Bird",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus eius perferendis, blanditiis numquam obcaecati et quis est quod. Eligendi sequi aliquam illum maiores, veniam tempora? Repellat unde odio consectetur enim.",
+      "author": "Vintt",
+      "id": 3
+    },
+    {
+      "title": "Planets",
+      "content": "there are 9 planets in our solar system of which pluto is declared as a star instead of a planet",
+      "author": "Aditya",
+      "id": 4
+    },
+    {
+      "title": "Hello World!!",
+      "content": "What ever you pick...I'm the first one you execute",
+      "author": "Vintt",
+      "id": 5
+    },
+    {
+      "title": "Pumpkin",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus eius perferendis, blanditiis numquam obcaecati et quis est quod. Eligendi sequi aliquam illum maiores, veniam tempora? Repellat unde odio consectetur enim.",
+      "author": "Mrudula",
+      "id": 6
+    }
+  ]
+}
